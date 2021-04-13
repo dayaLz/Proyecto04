@@ -1,0 +1,13 @@
+https://guru99.es/linear-regression-tensorflow/
+
+https://stackabuse.com/tensorflow-2-0-solving-classification-and-regression-problems/
+
+https://towardsdatascience.com/get-started-with-tensorflow-2-0-and-linear-regression-29b5dbd65977
+
+https://www.h2kinfosys.com/blog/linear-regression-using-tensorflow-with-examples/
+
+https://www.adictosaltrabajo.com/2020/12/21/primeros-experimentos-inversion-lineal-en-tensorflow/
+
+https://www.geeksforgeeks.org/linear-regression-using-tensorflow/
+
+https://www.doctormetrics.com/tensorflow/
